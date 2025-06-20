@@ -1,0 +1,3 @@
+-- LunaUX Decompiler
+-- Copyright (C) 2025 boydev144
+-- Licensed under the GNU GPL v3
