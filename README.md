@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">LunaUx Decompiler</h1>
 
-LunaUx Is a 100% safe compiler fully coded in python, which guarantees a safe and efficient decompilation, it also provides other methods of disassemble or AST generation ([Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)) In Luau
+LunaUx Is a 100% safe decompiler fully coded in python, which guarantees a safe and efficient decompilation, it also provides other methods of disassemble or AST generation ([Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)) In Luau
 
 > Only For Luau Versions higher than 4 and lower than 6
 
