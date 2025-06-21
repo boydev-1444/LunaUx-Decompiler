@@ -16,10 +16,6 @@ LunaUx Is a 100% safe decompiler fully coded in python, which guarantees a safe 
   - **Github**: [boydev1444](https://github.com/boydev-1444)
   - **Discord**: @boydev1444 (1091484248650829905)
   - **Role**: Writed Decompiler / Dissasembler / AST Generator
-- **elcapykkzxd**
-  - **Github**: **Not Provided**
-  - **Discord**: @elcapykkzxd (757074256281600072)
-  - **Role**: Bug Fixing
 
 ## Build-up
 
